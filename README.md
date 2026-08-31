@@ -70,7 +70,7 @@ En el área de **Desarrollo de Software**, una idea de emprendimiento puede conv
 ### 📸 Cooperativa y emprendimiento
 
 
-![Top Languages](ttps://www.photo-pick.com/online/3NXQ7Go3.link)
+
 ---
 
 # 🤝 Trabajo Cooperativo
