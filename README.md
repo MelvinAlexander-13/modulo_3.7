@@ -36,28 +36,44 @@ Además, permite relacionar los conocimientos adquiridos durante el bachillerato
 
 ---
 
+# 🤝 Microempresa Asociativa Cooperativa
+
+Una microempresa asociativa cooperativa se basa en la participación y colaboración de varias personas que trabajan juntas para alcanzar objetivos comunes.
+
+Entre sus principales características se encuentran:
+
+- 🤝 Trabajo en equipo
+- 👥 Participación de los integrantes
+- 💡 Generación de ideas
+- 📊 Organización
+- 💰 Administración de recursos
+- 🧠 Toma de decisiones
+- 📈 Planificación
+- 🌱 Emprendimiento
+- 🤲 Responsabilidad compartida
+
+---
+
 # 💡 Emprendimiento
 
 El emprendimiento consiste en transformar una idea en una iniciativa capaz de ofrecer productos o servicios y generar oportunidades.
 
-En el ámbito de Desarrollo de Software, una idea de emprendimiento puede convertirse en:
+En el área de **Desarrollo de Software**, una idea de emprendimiento puede convertirse en:
 
-- 🌐 Una página web.
-- 📱 Una aplicación móvil.
-- 💻 Un sistema informático.
-- 🛒 Una plataforma de comercio electrónico.
-- 📊 Un sistema de administración.
-- ⚙️ Una solución tecnológica para una empresa.
+- 🌐 Una página web
+- 📱 Una aplicación
+- 💻 Un sistema informático
+- 🛒 Una plataforma de comercio electrónico
+- 📊 Un sistema administrativo
+- ⚙️ Una solución tecnológica
 
-### 📸 Emprendimiento
+### 📸 Cooperativa y emprendimiento
 
-<p align="center">
-  <img src="./img/emprendimiento.jpg" alt="Emprendimiento estudiantil" width="700">
-</p>
+![Cooperativa y emprendimiento](https://ibb.co/qLghnK9f)
 
 ---
 
-# 🤝 Trabajo cooperativo
+# 🤝 Trabajo Cooperativo
 
 El trabajo cooperativo es fundamental para alcanzar objetivos comunes.
 
@@ -65,34 +81,14 @@ En una microempresa asociativa cooperativa, cada integrante puede aportar difere
 
 Algunos elementos importantes son:
 
-- 🤝 Trabajo en equipo.
-- 💬 Comunicación.
-- 🧠 Toma de decisiones.
-- 📋 Organización.
-- 💡 Creatividad.
-- 👥 Participación.
-- 📈 Planificación.
-- 🎯 Responsabilidad.
-
-### 📸 Trabajo en equipo
-
-<p align="center">
-  <img src="./img/trabajo-cooperativo.jpg" alt="Trabajo cooperativo" width="700">
-</p>
-
----
-
-# 🧠 Educación cooperativa
-
-La educación cooperativa permite desarrollar conocimientos relacionados con la participación, organización, responsabilidad y colaboración.
-
-Este tipo de aprendizaje ayuda a los estudiantes a comprender que un proyecto puede desarrollarse de mejor manera cuando existe una adecuada distribución de responsabilidades y una comunicación efectiva entre sus integrantes.
-
-### 📸 Educación cooperativa
-
-<p align="center">
-  <img src="https://ibb.co/qLghnK9f" alt="Educación cooperativa" width="700">
-</p>
+- 🤝 Trabajo en equipo
+- 💬 Comunicación
+- 🧠 Toma de decisiones
+- 📋 Organización
+- 💡 Creatividad
+- 👥 Participación
+- 📈 Planificación
+- 🎯 Responsabilidad
 
 ---
 
@@ -153,106 +149,25 @@ Durante este módulo se pueden fortalecer diferentes habilidades:
 
 ---
 
-# 🚀 Importancia del emprendimiento tecnológico
+# 🚀 Emprendimiento Tecnológico
 
 La tecnología ofrece diferentes oportunidades para crear nuevos productos y servicios.
 
-Un estudiante de Desarrollo de Software puede utilizar sus conocimientos para crear soluciones destinadas a pequeñas empresas, emprendimientos y organizaciones.
+Como estudiante de Desarrollo de Software, puedo utilizar mis conocimientos para crear soluciones destinadas a pequeñas empresas, emprendimientos y organizaciones.
 
 Por ejemplo:
 
 ```text
-Idea
-  ↓
-Planificación
-  ↓
-Diseño
-  ↓
-Desarrollo
-  ↓
-Pruebas
-  ↓
-Implementación
-  ↓
-Emprendimiento tecnológico
-```
-
-Esto demuestra que los conocimientos técnicos pueden convertirse en herramientas para solucionar problemas reales.
-
----
-
-# 📂 Estructura del repositorio
-
-```text
-modulo_3.7/
-│
-├── README.md
-│
-└── img/
-    ├── emprendimiento.jpg
-    ├── trabajo-cooperativo.jpg
-    └── educacion-cooperativa.jpg
-```
-
----
-
-# 📚 Actividades del módulo
-
-En este repositorio se podrán almacenar las diferentes actividades, trabajos y evidencias realizadas durante el desarrollo del módulo.
-
-```text
-📁 Actividades
-📁 Evidencias
-📁 Proyectos
-📁 Documentos
-📁 Presentaciones
-📁 img
-```
-
----
-
-# 🌟 Mi aprendizaje
-
-Este módulo me permite comprender que la formación en **Desarrollo de Software** no consiste únicamente en aprender a programar.
-
-También es importante desarrollar habilidades relacionadas con:
-
-> **Emprender, trabajar en equipo, organizar proyectos, solucionar problemas y utilizar la tecnología para crear oportunidades.**
-
-La combinación entre **tecnología, emprendimiento y cooperación** puede permitir desarrollar proyectos innovadores y útiles para la sociedad.
-
----
-
-# 🇸🇻 Formación para el futuro
-
-Como estudiante de Desarrollo de Software, considero importante continuar desarrollando mis conocimientos tecnológicos y aprender a utilizarlos en proyectos que puedan tener una aplicación real.
-
-El emprendimiento representa una oportunidad para transformar los conocimientos adquiridos durante la formación académica en soluciones que puedan beneficiar a otras personas, empresas y comunidades.
-
----
-
-# 📝 Conclusión
-
-El **Módulo 3.7 — Puesta en Marcha de la Microempresa Asociativa Cooperativa** permite desarrollar conocimientos importantes relacionados con el emprendimiento, la cooperación, la organización y el trabajo en equipo.
-
-Además, permite comprender que los conocimientos tecnológicos adquiridos en el **Bachillerato Técnico Vocacional en Desarrollo de Software** pueden utilizarse para crear soluciones innovadoras y apoyar diferentes iniciativas productivas.
-
-La formación técnica, combinada con el emprendimiento y el trabajo cooperativo, representa una herramienta importante para prepararnos para el futuro profesional.
-
----
-
-<div align="center">
-
-# 🚀 Aprender • Crear • Colaborar • Emprender
-
-### 💻 Desarrollo de Software
-
-### 🤝 Cooperativismo
-
-### 💡 Emprendimiento
-
-🇸🇻 **El Salvador**
-
-**Melvin Alexander Perez**
-
-</div>
+💡 Idea
+   ↓
+📋 Planificación
+   ↓
+🎨 Diseño
+   ↓
+💻 Desarrollo
+   ↓
+🧪 Pruebas
+   ↓
+🚀 Implementación
+   ↓
+🏢 Emprendimiento tecnológico
