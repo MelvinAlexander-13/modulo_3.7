@@ -91,7 +91,7 @@ Este tipo de aprendizaje ayuda a los estudiantes a comprender que un proyecto pu
 ### 📸 Educación cooperativa
 
 <p align="center">
-  <img src="./img/educacion-cooperativa.jpg" alt="Educación cooperativa" width="700">
+  <img src="https://ibb.co/qLghnK9f" alt="Educación cooperativa" width="700">
 </p>
 
 ---
