@@ -69,7 +69,7 @@ En el área de **Desarrollo de Software**, una idea de emprendimiento puede conv
 
 ### 📸 Cooperativa y emprendimiento
 
-![Cooperativa y emprendimiento](https://ibb.co/qLghnK9f)
+![Cooperativa y emprendimiento](https://www.photo-pick.com/online/3NXQ7Go3.link)
 
 ---
 
